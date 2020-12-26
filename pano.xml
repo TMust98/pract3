@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.10" apprev="18007">
+  <panorama id="node1">
+    <input width="1000" levelbias="0.400" height="1000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelingpitch="0">
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" scaletofit="1" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" author="" info="" source="" comment="" customnodeid="" longitude="" title="" copyright="" latitude="" description="" nodeid="node1" datetime="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label enabled="1" textcolor="0x000000" width="180" backgroundalpha="1" border="1" height="20" bordercolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-2.89" url="{node2}" title="Дорожка" pan="-218.61" description="Дорожка" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomfov="20" zoomspeed="2" softedge="0" zoomafterinfov="90" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1000" levelbias="0.400" height="1000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelingpitch="0">
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" scaletofit="1" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" author="" info="" source="" comment="" customnodeid="" longitude="" title="" copyright="" latitude="" description="" nodeid="node2" datetime="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label enabled="1" textcolor="0x000000" width="180" backgroundalpha="1" border="1" height="20" bordercolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-5.38" url="{node1}" title="Центр" pan="-28.32" description="Центр" target=""/>
+      <hotspot skinid="ht_node" id="Point02" tilt="-2.51" url="{node3}" title="Беседка" pan="-265.03" description="Беседка" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomfov="20" zoomspeed="2" softedge="0" zoomafterinfov="90" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1000" levelbias="0.400" height="1000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelingpitch="0">
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" scaletofit="1" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" author="" info="" source="" comment="" customnodeid="" longitude="" title="" copyright="" latitude="" description="" nodeid="node3" datetime="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label enabled="1" textcolor="0x000000" width="180" backgroundalpha="1" border="1" height="20" bordercolor="0x000000" wordwrap="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-2.98" url="{node2}" title="Дорожка" pan="-84.68" description="Дорожка" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomfov="20" zoomspeed="2" softedge="0" zoomafterinfov="90" zoomin="0" blendcolor="0x000000" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="1" simulatemass="1" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata heading="0" author="" info="" source="" comment="" customnodeid="" longitude="" title="" copyright="" latitude="" description="" nodeid="master" datetime="" tags=""/>
+  </masternode>
+</tour>
